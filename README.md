@@ -1,16 +1,16 @@
 # Titanic_survival
 Titanic: Machine Learning from Disaster
 
-Predict survival on the Titanic
+1.Predict survival on the Titanic
 
-Defining the problem statement
+2.Defining the problem statement
 
-Collecting the data
+3.Collecting the data
 
-Exploratory data analysis
+4.Exploratory data analysis
 
-Feature engineering
+5.Feature engineering
 
-Modelling
+6.Modelling
 
-Testing
+7.Testing
